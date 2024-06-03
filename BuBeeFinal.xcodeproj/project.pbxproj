@@ -11,6 +11,20 @@
 		2729E42B2C05B4A5006F0F62 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E42A2C05B4A5006F0F62 /* ContentView.swift */; };
 		2729E42D2C05B4A7006F0F62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2729E42C2C05B4A7006F0F62 /* Assets.xcassets */; };
 		2729E4302C05B4A7006F0F62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2729E42F2C05B4A7006F0F62 /* Preview Assets.xcassets */; };
+		2729E4372C05B4BC006F0F62 /* mainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4362C05B4BC006F0F62 /* mainView.swift */; };
+		2729E4392C05B4CA006F0F62 /* eventCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4382C05B4CA006F0F62 /* eventCardView.swift */; };
+		2729E43B2C05B4D7006F0F62 /* councilCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E43A2C05B4D7006F0F62 /* councilCardView.swift */; };
+		2729E43D2C05B4E1006F0F62 /* eventDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E43C2C05B4E1006F0F62 /* eventDetailView.swift */; };
+		2729E4412C05B680006F0F62 /* loginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4402C05B680006F0F62 /* loginView.swift */; };
+		2729E4432C05B70E006F0F62 /* studentCouncilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4422C05B70E006F0F62 /* studentCouncilView.swift */; };
+		2729E4452C05B736006F0F62 /* startsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4442C05B736006F0F62 /* startsView.swift */; };
+		2729E4472C05B767006F0F62 /* LetsBuBee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4462C05B767006F0F62 /* LetsBuBee.swift */; };
+		2729E4492C05B787006F0F62 /* freshmanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4482C05B787006F0F62 /* freshmanView.swift */; };
+		2729E44B2C05B7AE006F0F62 /* currentStudentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E44A2C05B7AE006F0F62 /* currentStudentView.swift */; };
+		2729E44D2C05BB2C006F0F62 /* footerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E44C2C05BB2C006F0F62 /* footerView.swift */; };
+		2729E4512C05C1F3006F0F62 /* personalCouncilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4502C05C1F3006F0F62 /* personalCouncilView.swift */; };
+		2729E4532C05C261006F0F62 /* aboutITView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4522C05C261006F0F62 /* aboutITView.swift */; };
+		2729E4552C05C2F0006F0F62 /* EventCreationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2729E4542C05C2F0006F0F62 /* EventCreationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		2729E42A2C05B4A5006F0F62 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2729E42C2C05B4A7006F0F62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2729E42F2C05B4A7006F0F62 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2729E4362C05B4BC006F0F62 /* mainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainView.swift; sourceTree = "<group>"; };
+		2729E4382C05B4CA006F0F62 /* eventCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eventCardView.swift; sourceTree = "<group>"; };
+		2729E43A2C05B4D7006F0F62 /* councilCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = councilCardView.swift; sourceTree = "<group>"; };
+		2729E43C2C05B4E1006F0F62 /* eventDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eventDetailView.swift; sourceTree = "<group>"; };
+		2729E4402C05B680006F0F62 /* loginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginView.swift; sourceTree = "<group>"; };
+		2729E4422C05B70E006F0F62 /* studentCouncilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = studentCouncilView.swift; sourceTree = "<group>"; };
+		2729E4442C05B736006F0F62 /* startsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = startsView.swift; sourceTree = "<group>"; };
+		2729E4462C05B767006F0F62 /* LetsBuBee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetsBuBee.swift; sourceTree = "<group>"; };
+		2729E4482C05B787006F0F62 /* freshmanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = freshmanView.swift; sourceTree = "<group>"; };
+		2729E44A2C05B7AE006F0F62 /* currentStudentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = currentStudentView.swift; sourceTree = "<group>"; };
+		2729E44C2C05BB2C006F0F62 /* footerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = footerView.swift; path = ../footerView.swift; sourceTree = "<group>"; };
+		2729E4502C05C1F3006F0F62 /* personalCouncilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = personalCouncilView.swift; sourceTree = "<group>"; };
+		2729E4522C05C261006F0F62 /* aboutITView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aboutITView.swift; sourceTree = "<group>"; };
+		2729E4542C05C2F0006F0F62 /* EventCreationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventCreationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +79,22 @@
 		2729E4272C05B4A5006F0F62 /* BuBeeFinal */ = {
 			isa = PBXGroup;
 			children = (
+				2729E4442C05B736006F0F62 /* startsView.swift */,
+				2729E4482C05B787006F0F62 /* freshmanView.swift */,
+				2729E44A2C05B7AE006F0F62 /* currentStudentView.swift */,
+				2729E4422C05B70E006F0F62 /* studentCouncilView.swift */,
+				2729E4462C05B767006F0F62 /* LetsBuBee.swift */,
+				2729E4402C05B680006F0F62 /* loginView.swift */,
+				2729E4362C05B4BC006F0F62 /* mainView.swift */,
+				2729E4522C05C261006F0F62 /* aboutITView.swift */,
+				2729E43C2C05B4E1006F0F62 /* eventDetailView.swift */,
+				2729E4502C05C1F3006F0F62 /* personalCouncilView.swift */,
+				2729E4542C05C2F0006F0F62 /* EventCreationView.swift */,
 				2729E4282C05B4A5006F0F62 /* BuBeeFinalApp.swift */,
 				2729E42A2C05B4A5006F0F62 /* ContentView.swift */,
+				2729E4382C05B4CA006F0F62 /* eventCardView.swift */,
+				2729E43A2C05B4D7006F0F62 /* councilCardView.swift */,
+				2729E44C2C05BB2C006F0F62 /* footerView.swift */,
 				2729E42C2C05B4A7006F0F62 /* Assets.xcassets */,
 				2729E42E2C05B4A7006F0F62 /* Preview Content */,
 			);
@@ -137,8 +179,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2729E44D2C05BB2C006F0F62 /* footerView.swift in Sources */,
+				2729E44B2C05B7AE006F0F62 /* currentStudentView.swift in Sources */,
+				2729E4492C05B787006F0F62 /* freshmanView.swift in Sources */,
+				2729E4452C05B736006F0F62 /* startsView.swift in Sources */,
+				2729E4552C05C2F0006F0F62 /* EventCreationView.swift in Sources */,
+				2729E4372C05B4BC006F0F62 /* mainView.swift in Sources */,
+				2729E4392C05B4CA006F0F62 /* eventCardView.swift in Sources */,
+				2729E4432C05B70E006F0F62 /* studentCouncilView.swift in Sources */,
+				2729E4412C05B680006F0F62 /* loginView.swift in Sources */,
+				2729E4532C05C261006F0F62 /* aboutITView.swift in Sources */,
+				2729E43D2C05B4E1006F0F62 /* eventDetailView.swift in Sources */,
 				2729E42B2C05B4A5006F0F62 /* ContentView.swift in Sources */,
 				2729E4292C05B4A5006F0F62 /* BuBeeFinalApp.swift in Sources */,
+				2729E43B2C05B4D7006F0F62 /* councilCardView.swift in Sources */,
+				2729E4512C05C1F3006F0F62 /* personalCouncilView.swift in Sources */,
+				2729E4472C05B767006F0F62 /* LetsBuBee.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
